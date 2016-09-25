@@ -40,7 +40,7 @@ Ni behöver en linuxmaskin för att testa på, skapa en ny genom att klona det h
 Öppna en gitbash terminal, gå till er projektfolder, hämta hem det här projektet med
 
 ```bash
-$ git clone ??
+$ git clone https://github.com/ntisod/executable.git
 ```
 
 Förflytta er till den nyligen skapade foldern Executable och starta servern med `vagrant up` och logga in med `vagrant ssh`

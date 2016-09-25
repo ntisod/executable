@@ -33,7 +33,7 @@ Ni måste installera python på er windowsdator. Ni hittar python [här](https:/
 Ni måste installera JRE, JaveRuntimeEnviorment. Det borde redan vara installerad på er dator. Öppna en terminal och skriv java, verkar det som att det är installerad så är ni klara. Annars gå [hit](http://www.java.com/en/download/windows_ie.jsp) och  följ instruktionerna.
 
 
-#### linuxserver
+### linuxserver
 
 Ni behöver en linuxmaskin för att testa på, skapa en ny genom att klona det här projektet, det följer med exempelkod också.
 

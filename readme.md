@@ -26,7 +26,7 @@ Under laborationen ska vi testa att skapa, köra och flytta skript, binära file
 ### Installationer på er windowsdator
 
 #### Python
-Ni måste installera python på er windowsdator. Ni hittar python [här](https://www.python.org/). Installera 2.17.12 som kommer att vara kompatibel med vår gamla linuxserver.
+Ni måste installera python på er windowsdator. Ni hittar python [här](https://www.python.org/). Installera 2.7.12 som kommer att vara kompatibel med vår gamla linuxserver.
 
 #### Java
 
